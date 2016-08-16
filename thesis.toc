@@ -1,0 +1,44 @@
+\hfill {\bf Page}
+\contentsline {chapter}{Acknowledgements}{v}
+\contentsline {chapter}{Abstract}{vi}
+\contentsline {chapter}{Table of Contents}{vii}
+\noindent {\bf Chapter}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Motivation}{1}
+\contentsline {section}{\numberline {1.2}Research Questions}{2}
+\contentsline {section}{\numberline {1.3}Research Contribution}{3}
+\contentsline {section}{\numberline {1.4}Organization of Dissertation proposal}{3}
+\contentsline {chapter}{\numberline {2}Background and Related Work}{4}
+\contentsline {section}{\numberline {2.1}Overview of Provenance Aware systems}{4}
+\contentsline {subsection}{\numberline {2.1.1}Provenance Aware Storage System(PASS)}{4}
+\contentsline {subsection}{\numberline {2.1.2}HiFi}{5}
+\contentsline {subsection}{\numberline {2.1.3}RecProv: Towards provenance-aware user space Recording and Replay}{6}
+\contentsline {subsection}{\numberline {2.1.4}Provenance for Sensors}{6}
+\contentsline {section}{\numberline {2.2}Model for representing provenance for IoT}{7}
+\contentsline {subsection}{\numberline {2.2.1}Open Provenance Model(OPM)}{7}
+\contentsline {subsection}{\numberline {2.2.2}Provenance Data Model(ProvDM)}{8}
+\contentsline {section}{\numberline {2.3}Overview of Data pruning techniques}{9}
+\contentsline {chapter}{\numberline {3}Solving Interval Linear Systems Is NP-Hard: Known Result}{12}
+\contentsline {section}{\numberline {3.1}Definitions}{12}
+\contentsline {section}{\numberline {3.2}Theorem}{14}
+\contentsline {section}{\numberline {3.3}What If Intervals Are Narrow?}{14}
+\contentsline {chapter}{\numberline {4}Solving Most Narrow-Interval Linear Systems Is Easy: Known Result}{15}
+\contentsline {section}{\numberline {4.1}Definitions}{15}
+\contentsline {section}{\numberline {4.2}Theorem}{16}
+\contentsline {section}{\numberline {4.3}Open Problem}{17}
+\contentsline {chapter}{\numberline {5}Solving Narrow-Interval Linear Systems Is NP-Hard: New Result}{18}
+\contentsline {section}{\numberline {5.1}Definitions}{18}
+\contentsline {section}{\numberline {5.2}Theorem}{19}
+\contentsline {section}{\numberline {5.3}Proof}{20}
+\contentsline {subsection}{\numberline {5.3.1}Part I: Reduction of Interval Linear System to Narrow-Interval Linear System}{20}
+\contentsline {subsection}{\numberline {5.3.2}Part II: The Two Systems Are ``Equivalent''}{23}
+\contentsline {subsubsection}{Proof of Claim 1}{23}
+\contentsline {subsubsection}{Proof of Claim 2}{28}
+\contentsline {subsection}{\numberline {5.3.3}Conclusion}{31}
+\contentsline {chapter}{\numberline {6}Concluding Remarks}{32}
+\contentsline {section}{\numberline {6.1}Significance of the Result}{32}
+\contentsline {section}{\numberline {6.2}Future Work}{32}
+\contentsline {chapter}{\numberline {7}Extra Chapter}{33}
+\contentsline {chapter}{References}{35}
+\contentsline {chapter}{References}{35}
+\contentsline {chapter}{Curriculum Vitae}{37}
